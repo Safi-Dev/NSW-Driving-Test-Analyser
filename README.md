@@ -60,7 +60,7 @@ The script will print the analysis results directly to your terminal, including:
 3.  A breakdown by Age Group, showing Pass Rate and Total Tests.
 4.  A breakdown by Gender, showing Pass Rate and Total Tests.
 
-*(Any rows skipped due to formatting issues will also be noted in the output.)*
+ EXAMPLE OUTPUT FOR MARCH 2025
  ```EXAMPLE OUTPUT FOR MARCH 2025
 --- C Driving Test Analysis ---
 
